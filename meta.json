@@ -1,0 +1,46 @@
+[
+  {
+    "repo": "https://raw.githubusercontent.com/jqnxokbmeoiqwncv/Penumbra/master/repo.json",
+    "plugins": ["Penumbra"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/jqnxokbmeoiqwncv/Glamourer/main/repo.json",
+    "plugins": ["Glamourer"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/jqnxokbmeoiqwncv/SimpleHeels/master/repo.json",
+    "plugins": ["SimpleHeels"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/jqnxokbmeoiqwncv/CustomizePlus/main/repo.json",
+    "plugins": ["CustomizePlus"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/jqnxokbmeoiqwncv/Ktisis/main/repo.json",
+    "plugins": ["Ktisis"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/jqnxokbmeoiqwncv/Brio/main/repo.json",
+    "plugins": ["Brio"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/jqnxokbmeoiqwncv/Moodles/main/repo.json",
+    "plugins": ["Moodles"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/jqnxokbmeoiqwncv/Honorific/master/repo.json",
+    "plugins": ["Honorific"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/jqnxokbmeoiqwncv/DynamicBridge/main/repo.json",
+    "plugins": ["DynamicBridge"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/jqnxokbmeoiqwncv/MareSynchronos/main/repo.json",
+    "plugins": ["MareSynchronos"]
+  },
+  {
+    "repo": "https://raw.githubusercontent.com/jqnxokbmeoiqwncv/Heliosphere/dev/repo.json",
+    "plugins": ["heliosphere-plugin"]
+  }
+]
